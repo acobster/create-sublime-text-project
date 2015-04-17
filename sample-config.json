@@ -1,9 +1,7 @@
 {
-	"dir_path": "/Volumes/ctamayo-baker/{NAME}/sites/codebase",
+	"dir_path": "/Users/acobster/{NAME}",
 	"dir_path_favorites": {
-		"baker": "/Volumes/ctamayo-baker/{NAME}/sites/codebase",
-		"si": "/Volumes/ctamayo-si/{NAME}/sites/codebase",
-		"wheezy": "/Volumes/ctamayo-wheezy/{NAME}/sites/codebase"
+		"whatev": "/Users/acobster/whatever/{NAME}/docroot",
 	},
-	"project_dir": "/Users/ctamayo/Documents/projects/"
+	"project_dir": "/Users/acobster/projects/"
 }
